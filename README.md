@@ -1,2 +1,2 @@
 # titanic_dataset
-A machine learning model on titanic dataset
+A cool new machine learning model on titanic dataset
